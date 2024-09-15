@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: Gylmar
+Build-Jdk: 21.0.4
+Main-Class: com.tech_test.App
+Created-By: Maven Integration for Eclipse
+
