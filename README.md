@@ -1,6 +1,6 @@
 ### CUBO+ Technical test
 [video](https://drive.google.com/file/d/1EvuJv8Z-VvisA2yyszUPUu-jKTAxg9Cx/view)
-[solution](cuboplus_tech_test)
+[solution](cuboplus_tech_test/tech_test)
 
 Note: you can run the jar file in cmd, tech_test\target\tech_test-1.0-SNAPSHOT
 
